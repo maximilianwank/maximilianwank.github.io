@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dr. Maximilian Wank</title>
+    <link>https://maximilianwank.github.io/</link>
+    <description>Recent content on Dr. Maximilian Wank</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://maximilianwank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links of the Week 49</title>
+      <link>https://maximilianwank.github.io/posts/lotw_2023_49/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://maximilianwank.github.io/posts/lotw_2023_49/</guid>
+      <description> Inject My PDF: Prompt Injection for your Resume Urheberrecht: OLG Dresden stuft DNS-Resolver bei Verstößen nicht als Täter ein Softwaresabotage: Hacker finden vom Hersteller verbaute Fehlfunktion in Zügen Apple bestätigt: Regierungen spionieren Bürger über Pushnachrichten aus &amp;ldquo;Alle reden vom Wetter. Wir nicht.&amp;rdquo; Accessing private objects from S3 or GCS using curl </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://maximilianwank.github.io/index-about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maximilianwank.github.io/index-about/</guid>
+      <description>About me I work for PlastiVation as Lead Digital Solution Architect, both on internal digitalization as well as on Industry 4.0 topics for our customers. I am a father of two and play the trombone in my spare time.
+I use this site to play around with HUGO and to keep track of stuff I stumble upon on the internet. So don&amp;rsquo;t get too excited.</description>
+    </item>
+  </channel>
+</rss>
