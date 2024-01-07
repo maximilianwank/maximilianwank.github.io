@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Dr. Maximilian Wank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://maximilianwank.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links of the Week 01</title>
+      <link>https://maximilianwank.github.io/posts/lotw_2024_01/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://maximilianwank.github.io/posts/lotw_2024_01/</guid>
+      <description> Hirne hacken: Hackback Edition Toniebox Reverse Engineering Setup Glances + Influxdb + Grafana to monitor performance on Ubuntu Boeing 737 Max 9 verliert Tür im Flug und landet sicher iX Security Kolumne: Risikofaktor Cloud trotzdem sicherer als On-Prem </description>
+    </item>
     <item>
       <title>Links of the Week 52</title>
       <link>https://maximilianwank.github.io/posts/lotw_2023_52/</link>
