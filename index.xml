@@ -6,8 +6,15 @@
     <description>Recent content on Dr. Maximilian Wank</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://maximilianwank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links of the Week 06</title>
+      <link>https://maximilianwank.github.io/posts/lotw_2024_06/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://maximilianwank.github.io/posts/lotw_2024_06/</guid>
+      <description> Microsoft und Open Source: Microsofts Abkehr von der Geheimniskrämerei Autostart WireGuard in systemd Teilchenbeschleuniger: Das CERN zeigt sein Storagesystem </description>
+    </item>
     <item>
       <title>Links of the Week 05</title>
       <link>https://maximilianwank.github.io/posts/lotw_2024_05/</link>
