@@ -145,36 +145,6 @@
 
     
     
-    <script>
-        let backToTopButton = document.getElementById("btt-button");
-
-        window.onscroll = function() {
-            scrollFunction()
-        };
-
-        function scrollFunction() {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                backToTopButton.style.display = "block";
-            } else {
-                backToTopButton.style.display = "none";
-            }
-        }
-
-        function topFunction() {
-            smoothScrollToTop();
-        }
-
-        function smoothScrollToTop() {
-            const scrollToTop = () => {
-                const c = document.documentElement.scrollTop || document.body.scrollTop;
-                if (c > 0) {
-                    window.requestAnimationFrame(scrollToTop);
-                    window.scrollTo(0, c - c / 8);
-                }
-            };
-            scrollToTop();
-        }
-    </script>
     
 </div>
 
