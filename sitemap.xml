@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maximilianwank.github.io/index-about/</loc>
+    <loc>https://softwertvoll.de/index-about/</loc>
   </url><url>
-    <loc>https://maximilianwank.github.io/categories/</loc>
+    <loc>https://softwertvoll.de/categories/</loc>
   </url><url>
-    <loc>https://maximilianwank.github.io/</loc>
+    <loc>https://softwertvoll.de/</loc>
   </url><url>
-    <loc>https://maximilianwank.github.io/tags/</loc>
+    <loc>https://softwertvoll.de/impressum/</loc>
+  </url><url>
+    <loc>https://softwertvoll.de/tags/</loc>
   </url>
 </urlset>
