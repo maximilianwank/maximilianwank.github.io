@@ -2,17 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr. Maximilian Wank</title>
-    <link>https://maximilianwank.github.io/</link>
+    <link>https://softwertvoll.de/</link>
     <description>Recent content on Dr. Maximilian Wank</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <atom:link href="https://maximilianwank.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://softwertvoll.de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://softwertvoll.de/datenschutzerklaerung/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://softwertvoll.de/datenschutzerklaerung/</guid>
+      <description>&lt;h1 id=&#34;1-datenschutz-auf-einen-blick&#34;&gt;1. Datenschutz auf einen Blick&lt;/h1&gt;&#xA;&lt;h2 id=&#34;allgemeine-hinweise&#34;&gt;Allgemeine Hinweise&lt;/h2&gt;&#xA;&lt;p&gt;Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten&#xA;passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie&#xA;persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen&#xA;Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.&lt;/p&gt;&#xA;&lt;h2 id=&#34;datenerfassung-auf-dieser-website&#34;&gt;Datenerfassung auf dieser Website&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wer-ist-verantwortlich-für-die-datenerfassung-auf-dieser-website&#34;&gt;Wer ist verantwortlich für die Datenerfassung auf dieser Website?&lt;/h3&gt;&#xA;&lt;p&gt;Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten&#xA;können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
-      <link>https://maximilianwank.github.io/index-about/</link>
+      <link>https://softwertvoll.de/index-about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maximilianwank.github.io/index-about/</guid>
-      <description>About me I work for PlastiVation as Lead Digital Solution Architect, both on internal digitalization as well as on Industry 4.0 topics for our customers. I am a father and play the trombone in my spare time.</description>
+      <guid>https://softwertvoll.de/index-about/</guid>
+      <description>&lt;h3 id=&#34;über-mich&#34;&gt;Über mich&lt;/h3&gt;&#xA;&lt;p&gt;Ich arbeite bei &lt;a href=&#34;https://tomorrowthings.com/&#34;&gt;Tomorrow Things&lt;/a&gt; als Senior Data Scientist / ML Engineer, wo ich mich derzeit hauptsächlich mit dem Thema Retrieval-Augmented Generation beschäftige. Nebenberuflich unterstütze ich bei Beratung, Entwicklung, Schulung und Vertrieb von Softwarelösungen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>https://softwertvoll.de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://softwertvoll.de/impressum/</guid>
+      <description>&lt;p&gt;Dr. Maximilian Wank&lt;br&gt;&#xA;softwertvoll (Einzelunternehmen)&lt;br&gt;&#xA;Garmischer Straße 8A&lt;br&gt;&#xA;82438 Eschenlohe&lt;/p&gt;&#xA;&lt;h3 id=&#34;kontakt&#34;&gt;Kontakt&lt;/h3&gt;&#xA;&lt;p&gt;Telefon: +49 (0) 151 401 391 18&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:maximilian.wank@softwertvoll.de&#34;&gt;maximilian.wank@softwertvoll.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;umsatzsteuer-id&#34;&gt;Umsatzsteuer-ID&lt;/h3&gt;&#xA;&lt;p&gt;Umsatzsteuer-Identifikationsnummer gemäß §27a Umsatzsteuergesetz:&lt;br&gt;&#xA;DE453452012&lt;/p&gt;&#xA;&lt;h3 id=&#34;verbraucherstreitbeilegung--universalschlichtungsstelle&#34;&gt;Verbraucherstreitbeilegung / Universalschlichtungsstelle&lt;/h3&gt;&#xA;&lt;p&gt;Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.&lt;/p&gt;&#xA;&lt;h3 id=&#34;haftung-für-links&#34;&gt;Haftung für Links&lt;/h3&gt;&#xA;&lt;p&gt;Trotz sorgfältiger inhaltlicher Kontrolle übernehme ich keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
